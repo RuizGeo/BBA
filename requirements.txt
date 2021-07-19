@@ -1,0 +1,6 @@
+pandas==1.0.1
+numpy==1.19.1
+geopandas==0.8.1
+folium==0.12.1
+rasterio==1.1.0
+plotly==5.1.0

@@ -1,6 +1,8 @@
-pandas==1.0.1
-numpy==1.19.1
-geopandas==0.8.1
-folium==0.12.1
-rasterio==1.1.0
+streamlit_folium==0.3.0
 plotly==5.1.0
+geopandas==0.8.1
+rasterio==1.1.8
+streamlit==0.80.0
+numpy==1.19.1
+folium==0.12.1
+pandas==1.0.1
